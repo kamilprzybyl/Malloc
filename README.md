@@ -1,6 +1,5 @@
-###### Currently working on it...
-
 # Malloc
+Just so you know the code is not very well written, the allocation works like expected, freeing and reallocating memory likewise. Once again if you're looking for a well optimized, genius code... I'm sorry but most likely you'll be disappointed :)))))
 
 This project is about implementing a dynamic memory allocation mechanism.
 
